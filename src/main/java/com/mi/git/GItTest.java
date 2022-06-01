@@ -15,5 +15,6 @@ public class GItTest {
         System.out.println("master-test 合并冲突");
         System.out.println("hot-fix 冲突合并");
         System.out.println("push to github test");
+        pull test
     }
 }
